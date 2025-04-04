@@ -1,7 +1,8 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=220a53&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=0A710Asize=35&center=true&vCenter=true&width=1000&lines=Olá👋;Meu+nome+é+Rafaela;Seja+Bem-vindo(a)!;:%29)](https://git.io/typing-svg)
 
 ##
 📌Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na Universidade Unicesumar - (PR). <br>
@@ -16,14 +17,8 @@
   <a href="https://www.linkedin.com/in/rafaela-michelin-240a402a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/rafamichelin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
  <a href=""></a> 
-    
-##
+
  
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alanagabriele&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanagabriele&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" />
-  
-</div>
 
 
 
