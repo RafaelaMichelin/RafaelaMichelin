@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Meu+nome+é+Rafaela;Seja+Bem-vindo(a)!;:%29)](https://git.io/typing-svg)
 
 ##
-📌Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na Universidade Unicesumar - (PR). <br>
+📌Cursando o 4º semestre de Análise e Desenvolvimento de Sistemas na Universidade Unicesumar - (PR). <br>
 📌Em busca de aprendizado e aperfeiçoamento pessoal!
 
 
