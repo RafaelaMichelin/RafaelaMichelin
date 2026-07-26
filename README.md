@@ -2,16 +2,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=220a53&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Meu+nome+é+Rafaela;Seja+Bem-vindo(a)!;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Seja+Bem-vindo(a)!;:%29)](https://git.io/typing-svg)
 
 ##
-📌Cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na Universidade Unicesumar - (PR). <br>
-📌Em busca de aprendizado e aperfeiçoamento pessoal!
-
-
+<br>
+<br>
+<div>
+  
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=RafaelaMichelin&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent&title_color=32CD32&text_color=FFFF&icon_color=A020F0&border_color=A020F0">
+</div>
 
 #####  Contatos:
-
 <div > 
   <a href = "mailto: RafaelaMichelin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaela-michelin-240a402a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
