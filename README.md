@@ -4,14 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Seja+Bem-vindo(a)!;:%29)](https://git.io/typing-svg)
 
-##
-
+<br>
 <br>
 <div align="center">
   <h2> GitHub Stats </h2>
 <img height="150em" src="https://github-stats-extended.vercel.app/api?username=RafaelaMichelin&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent&title_color=32CD32&text_color=FFFF&icon_color=A020F0&border_color=A020F0">
 <img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs?username=RafaelaMichelin&layout=compact&langs_count=4&theme=transparent&title_color=32CD32&text_color=FFFF&border_color=A020F0&&hide_title=true">
 </div>
+<br>
 <br>
 <div align="center">
   <h2> Contacts </h2>
@@ -30,7 +30,8 @@
 
 
 
-
+<!-- Footer -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=220a53&height=120&section=footer"/>
 
 
 <!--
