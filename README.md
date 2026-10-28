@@ -8,8 +8,8 @@
 <br>
 <div align="center">
   <h2> GitHub Stats </h2>
-<img height="150em" src="https://github-stats-extended.vercel.app/api?username=RafaelaMichelin&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent&title_color=32CD32&text_color=FFFF&icon_color=A020F0&border_color=A020F0">
-<img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs?username=RafaelaMichelin&layout=compact&langs_count=4&theme=transparent&title_color=32CD32&text_color=FFFF&border_color=A020F0&&hide_title=true">
+<img height="150em" src="./profile/stats.svg">
+<img height="150em" src="./profile/langs.svg">
 </div>
 <br>
 <br>
